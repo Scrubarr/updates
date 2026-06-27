@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.9",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.9",
-  "notes": "Initial org-scoped Scrubarr Docker release."
+  "version": "0.1.10",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.10",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.10",
+  "notes": "Fix scheduled runs so eligible candidates are added to the pending queue before Emby library sync and deletion checks."
 }
