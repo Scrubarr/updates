@@ -1,6 +1,6 @@
 {
-  "version": "0.1.10",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.10",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.10",
-  "notes": "Fix scheduled runs so eligible candidates are added to the pending queue before Emby library sync and deletion checks."
+  "version": "0.1.11",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.11",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.11",
+  "notes": "Polish page titles, section subtitles, and helper copy across the Scrubarr UI."
 }
