@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.13",
-    "dockerImage":  "ghcr.io/scrubarr/scrubarr:v0.1.13",
-    "releaseUrl":  "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.13",
-    "notes":  "Hide managed Leaving Soon deletion libraries from the search-library picker and scan sources."
+    "version":  "0.1.14",
+    "dockerImage":  "ghcr.io/scrubarr/scrubarr:v0.1.14",
+    "releaseUrl":  "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.14",
+    "notes":  "Fix the pending-item qualification reason popover on mobile screens."
 }
