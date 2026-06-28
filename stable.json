@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.12",
-    "dockerImage":  "ghcr.io/scrubarr/scrubarr:v0.1.12",
-    "releaseUrl":  "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.12",
-    "notes":  "Add Jellyfin media-server support, provider setup, and Leaving Soon library sync polish."
+    "version":  "0.1.13",
+    "dockerImage":  "ghcr.io/scrubarr/scrubarr:v0.1.13",
+    "releaseUrl":  "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.13",
+    "notes":  "Hide managed Leaving Soon deletion libraries from the search-library picker and scan sources."
 }
