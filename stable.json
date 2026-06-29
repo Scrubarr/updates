@@ -1,6 +1,11 @@
 {
-    "version":  "0.1.18",
-    "dockerImage":  "ghcr.io/scrubarr/scrubarr:v0.1.18",
-    "releaseUrl":  "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.18",
-    "notes":  "Add cleanup safety checks, per-title cleanup decisions, optional Arr pending tags, and clearer chip-style multi-select fields."
+  "version": "0.1.18",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.18",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.18",
+  "notes": "Add cleanup safety checks, per-title cleanup decisions, optional Arr pending tags, and clearer chip-style multi-select fields.",
+  "signature": {
+    "algorithm": "ed25519",
+    "keyId": "scrubarr-update-ed25519-2026-06",
+    "value": "jUXoCprLEaYrm64qPhT0zimPyQ6yKX7KdscVK8TT1jcRffgEiuo0UV4R76nKYTa8BFC/19AxRxABUSnbWtd5Dg=="
+  }
 }
