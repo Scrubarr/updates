@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.15",
-    "dockerImage":  "ghcr.io/scrubarr/scrubarr:v0.1.15",
-    "releaseUrl":  "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.15",
-    "notes":  "Refine the Safety page so live cleanup risks, Leaving Soon libraries, connection readiness, and last-run results are clearer without turning the page into another dashboard."
+    "version":  "0.1.17",
+    "dockerImage":  "ghcr.io/scrubarr/scrubarr:v0.1.17",
+    "releaseUrl":  "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.17",
+    "notes":  "Improve mobile tooltip positioning so help and qualification popovers stay anchored to their field or item and close when scrolling away."
 }
