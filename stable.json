@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.17",
-    "dockerImage":  "ghcr.io/scrubarr/scrubarr:v0.1.17",
-    "releaseUrl":  "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.17",
-    "notes":  "Improve mobile tooltip positioning so help and qualification popovers stay anchored to their field or item and close when scrolling away."
+    "version":  "0.1.18",
+    "dockerImage":  "ghcr.io/scrubarr/scrubarr:v0.1.18",
+    "releaseUrl":  "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.18",
+    "notes":  "Add cleanup safety checks, per-title cleanup decisions, optional Arr pending tags, and clearer chip-style multi-select fields."
 }
