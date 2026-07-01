@@ -1,11 +1,11 @@
 {
-  "version": "0.1.19",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.19",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.19",
-  "notes": "Harden update checks with trusted update sources and signed update manifests.",
+  "version": "0.1.20",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.20",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.20",
+  "notes": "Improve setup-state messaging, dashboard library totals, and compact cleanup qualification details.",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "RstXXIGlPhuLjjKlmK4s1SU5eVLtiUtfX+TJiiR/UAWMNvW5lrD+UCWR2INOKXRFIlV1jqAD/nOMI0o+uzJ2CA=="
+    "value": "wXzK4zPQspnxw9bA2THx47CClUgiWpX2/tFrGVIuHHJaQqwkqct1D3IDlOV1ZCXCLMO00NjOmPqatw6Uq+KZDw=="
   }
 }
