@@ -1,11 +1,11 @@
 {
-  "version": "0.1.25",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.25",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.25",
-  "notes": "Refine deletion library tooltip wording.",
+  "version": "0.1.26",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.26",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.26",
+  "notes": "Polish deletion-day countdown wording and document Telegram bot setup.",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "l6fE3a+ng+y9bCMSzhbSKKUZ6OeLoqKYZ5FMqXCCAAtT0WDIJHxMizdU6fzw4RX7GEd1Rb0nFk2p+8MnkXFVDQ=="
+    "value": "JnL53105Iuy7vwFvDWjAaOKm8CdE9HRgMnaQvx9DHO07z5KP6ccxLitEShflFV8scb/8711Gc4if/7tqYslYDQ=="
   }
 }
