@@ -1,11 +1,11 @@
 {
-  "version": "0.1.24",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.24",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.24",
-  "notes": "Clarify deletion library name tooltips for media server users.",
+  "version": "0.1.25",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.25",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.25",
+  "notes": "Refine deletion library tooltip wording.",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "w2kTdUKYzJJtYQKKwoy/uPIujWupVIROLKc20ChmD2ejB1UmCJldzqSHa2Ch33rTxpGVr8tDXYKR2D15fpyJDw=="
+    "value": "l6fE3a+ng+y9bCMSzhbSKKUZ6OeLoqKYZ5FMqXCCAAtT0WDIJHxMizdU6fzw4RX7GEd1Rb0nFk2p+8MnkXFVDQ=="
   }
 }
