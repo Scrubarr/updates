@@ -1,11 +1,11 @@
 {
-  "version": "0.1.28",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.28",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.28",
-  "notes": "Use safer Arr editor endpoints for pending tag sync.",
+  "version": "0.1.29",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v0.1.29",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v0.1.29",
+  "notes": "Remove deletion countdown glow when nothing is pending.",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "tJ++JVOfEypG7TAm8kaTYr+xLctKcB/12MIqC6JoP6boZDzBjEkzf8oQ+vm2ZJhl9voHPK1WZzbY7uK+KGXXAg=="
+    "value": "JC/TnnqJKvRBwS7jn9Q6YEp1FfUr3TgptsILHlogKLq9oeS85VPD0WYsAcuCYG339dzkBhnIpPSjj7AfmzmoAg=="
   }
 }
