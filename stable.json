@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.0.1",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.0.1",
-  "notes": "Targeted Leaving Soon library scans after queue sync.",
+  "version": "1.0.2",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.0.2",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.0.2",
+  "notes": "Arr-safe Radarr/Sonarr pending tag names.",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "lHjQTywcMLe7JodH62l0htfnNkBtrwONDTbsX3saacou8D8GLOuHSXyEyfoxZ9ULSt8GAK4MW5Sram79NvZMDg=="
+    "value": "Wn+rC76u9KxbDx0IGc6RWwsea8y7sXKNRFu+1+IlzaUt8ikqZeHbcThWoNBCluh0zqahmUuj3cN8Ua1orI50Bw=="
   }
 }
