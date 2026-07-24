@@ -1,11 +1,12 @@
 {
-  "version": "1.0.2",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.0.2",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.0.2",
-  "notes": "Arr-safe Radarr/Sonarr pending tag names.",
+  "version": "1.1.4",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.1.4",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.1.4",
+  "notes": "Deletion safety, integrity review, and immutable signed Docker update references.",
+  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:2480742cef79f255bca0365113d801aab81d0d18d588e98b5c2e86576f6b56b1",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "Wn+rC76u9KxbDx0IGc6RWwsea8y7sXKNRFu+1+IlzaUt8ikqZeHbcThWoNBCluh0zqahmUuj3cN8Ua1orI50Bw=="
+    "value": "RMPS9hflFANV6PnWD4UTKw5Msr2r7+ZBoBs2zpWugUoRPS6mMqiK9ou8eM3qindYI7jRIhI2sn1IAC3pB7t7DQ=="
   }
 }
