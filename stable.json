@@ -1,12 +1,12 @@
 {
-  "version": "1.1.5",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.1.5",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.1.5",
-  "notes": "Prevents stale scheduler timers and duplicate scheduled runs.",
-  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:e4869be75a2abf42d1213415939832f048c294d9f6ab17c4fce90a8719e91a86",
+  "version": "1.2.0",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.2.0",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.2.0",
+  "notes": "Refreshes the UI hierarchy and strengthens scheduler continuity.",
+  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:714231dfd8ad5323a15dbfb83c8c81a74f3503a828c3db5e9ea9aef5111b5b77",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "N8mslhGDk12+Lu85PUo1e7FB6xVV4RBsxXrS6ptzxkZxpj5qoRUjijh8yIN7dPd2w2OclW7tawPC/pwj0xUvBA=="
+    "value": "S6PBb1/xbV24chAclpImKEoelcW5dq8U3CQUqDtU6Y3KEZ3AQxZzF664eSuCJ0dqOWp3wBS9UNDIfX28CrmDDA=="
   }
 }
