@@ -1,12 +1,12 @@
 {
-  "version": "1.2.1",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.2.1",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.2.1",
-  "notes": "Keeps signed Docker update commands secure while showing a readable release tag in Settings.",
-  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:0ce146d41b6991ef3aa6ce0cbfb4b69db9c6018b198aac85c1214e46dca08a1d",
+  "version": "1.2.2",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.2.2",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.2.2",
+  "notes": "Reconciles stale Scrubarr-managed Leaving Soon entries and reports unresolved queue cleanup clearly.",
+  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:e48a25a13a70e4792bf6dea57a4c32f779aaaa2c13f372092090425d56497110",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "GSWbKfoquRb8C3G22jV3ONd/B2ppG0PcejFOYsKVpmO/Q5sKekHY4pOzr6PzD4Dgw19lDaAMSMLoM38oopnIAw=="
+    "value": "hZlgtbI2ZkWOIVRCXWaaMNuocmFjifbH+6ecOeci4msiP6hFQdxYP2It92KREPkBHLb32v3yfAK20wKQPPToBw=="
   }
 }
