@@ -1,12 +1,12 @@
 {
-  "version": "1.2.3",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.2.3",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.2.3",
-  "notes": "Waits for active Emby and Jellyfin library scans before validating Leaving Soon item counts.",
-  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:7c9b3b68529f247077376116055f09a2c46f327c6543302a184a5598a889a540",
+  "version": "1.3.0",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.3.0",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.3.0",
+  "notes": "Adds Emby controls for grouping Leaving Soon libraries and hiding them from secondary home sections.",
+  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:e465c1668bbb3f8bb51d1dfabb4a2eb7a1c98eff93030177542ba4f939028cad",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "xRe42omKxBfIV2GXMOvndbDUR4x3eKkt3Nta9wdBo4qquS30E2E4J91iqm+lrQj4ggRhPW8Q8BJjbZ3he+wGCA=="
+    "value": "W4IZ9FRTImJFtouoa6aJjZ62VAAfJSEXFng8QzaDXRoVtgFYI3ChPYEPGA9EQgBYlU/gVOJmFk+72+JP2ubHAg=="
   }
 }
