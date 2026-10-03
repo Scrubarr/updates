@@ -1,12 +1,12 @@
 {
-  "version": "1.4.0",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.4.0",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.4.0",
-  "notes": "Adds clearer run health and logs, resilient scheduling alerts, safer due-item revalidation, and Jellyfin Leaving Soon presentation controls.",
-  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:35937bc45ecb0bd026237ffcd86191d0a6e9b214f9e89ac64159b46fb93c4ea8",
+  "version": "1.4.1",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.4.1",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.4.1",
+  "notes": "Fixes Emby watch-history requests and prevents watched media from being mistaken for never watched. Incomplete movie or episode history blocks cleanup safely.",
+  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:ef90dc622f634fcc35f1bf7070b28066071bff2ba29fb99d2bdf4d32afbb658e",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "kn2NfjBcOwVb7vTNNumoBl8j6Mmq+klswvYkGm6tdWUlwDYlbZuHRHx5w+pMw/Iq9LFTxaSPccJaDfEQe9q4DQ=="
+    "value": "ywIzYhoaOeyfsz/hCyq9t4pgur5w+nWkfHOenqokdb6+6QHonuZ+z6z+pe2n+pvc65pdkJb2xfTN2TJCjg8hCQ=="
   }
 }
