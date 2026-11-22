@@ -1,12 +1,12 @@
 {
-  "version": "1.4.1",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.4.1",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.4.1",
-  "notes": "Fixes Emby watch-history requests and prevents watched media from being mistaken for never watched. Incomplete movie or episode history blocks cleanup safely.",
-  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:ef90dc622f634fcc35f1bf7070b28066071bff2ba29fb99d2bdf4d32afbb658e",
+  "version": "1.4.2",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.4.2",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.4.2",
+  "notes": "Improves Telegram delivery with bounded retries and duplicate protection, and fixes reminder counts and notification tracking.",
+  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:8671e994bec2594e24e51f05df3fc3e354df42b3467b3bf4c1e5b2744add840b",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "ywIzYhoaOeyfsz/hCyq9t4pgur5w+nWkfHOenqokdb6+6QHonuZ+z6z+pe2n+pvc65pdkJb2xfTN2TJCjg8hCQ=="
+    "value": "F8oST1ClVEn3qs0hfTBAJDEXay6ReOOnlcV1Yq0NWZT+Q0gmEMJ4reALBaLDEAKXYmAeWcWf4XlxoqbQfc5eBA=="
   }
 }
