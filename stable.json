@@ -1,12 +1,12 @@
 {
-  "version": "1.4.2",
-  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.4.2",
-  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.4.2",
-  "notes": "Improves Telegram delivery with bounded retries and duplicate protection, and fixes reminder counts and notification tracking.",
-  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:8671e994bec2594e24e51f05df3fc3e354df42b3467b3bf4c1e5b2744add840b",
+  "version": "1.4.3",
+  "dockerImage": "ghcr.io/scrubarr/scrubarr:v1.4.3",
+  "releaseUrl": "https://github.com/Scrubarr/Scrubarr/releases/tag/v1.4.3",
+  "notes": "Clarifies Telegram warnings and recovery messages, adds the Kept in library report wording, and makes the sign-off consistent.",
+  "dockerImageDigest": "ghcr.io/scrubarr/scrubarr@sha256:403bf74059a93cfa9ae79e4c74c6d71d1737719c176056450a68cff696feb3bc",
   "signature": {
     "algorithm": "ed25519",
     "keyId": "scrubarr-update-ed25519-2026-06",
-    "value": "F8oST1ClVEn3qs0hfTBAJDEXay6ReOOnlcV1Yq0NWZT+Q0gmEMJ4reALBaLDEAKXYmAeWcWf4XlxoqbQfc5eBA=="
+    "value": "mX2SzKeL2TNKOrGjCxbxPZB6K0NSfNtr0uZ6hCZROQLlTW6N1dSx2Mou/JgFO/5fUTZ2ydj/BcUALUiNH1/DDA=="
   }
 }
